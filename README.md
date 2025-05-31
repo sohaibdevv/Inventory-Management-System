@@ -1,5 +1,5 @@
 # Inventory Management system
-## Tecnologies Used
+## Technologies Used
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,git,githubcopilot&titles=true&theme=dark)
 
 This is a basic console-based application built in C# that allows you to manage product inventory. You can add new products, update their stock quantities, view all products, and remove products from the inventory.
